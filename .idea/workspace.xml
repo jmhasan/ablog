@@ -2,31 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="552f269e-0e3b-479e-ad26-e7292288a15c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ablog.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ablog/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ablog/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ablog/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ablog/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ablog/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theblog/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theblog/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theblog/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theblog/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theblog/migrations/0002_post_title_tag.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theblog/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theblog/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theblog/templates/arical_details.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theblog/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theblog/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theblog/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theblog/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theblog/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +19,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1nCAzybBITKWen3FWmhcnyS05lM" />
@@ -54,6 +36,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SvnConfiguration">
@@ -67,7 +50,25 @@
       <option name="presentableId" value="Default" />
       <updated>1610883964806</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1610994748720</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610994748720</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="614" y="113" key="CommitChangelistDialog2" timestamp="1610994747736">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="614" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1610994747736" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
