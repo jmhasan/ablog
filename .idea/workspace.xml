@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="552f269e-0e3b-479e-ad26-e7292288a15c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ablog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ablog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ablog/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ablog/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ablog/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ablog/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theblog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theblog/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theblog/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theblog/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theblog/migrations/0002_post_title_tag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theblog/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theblog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theblog/templates/arical_details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theblog/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theblog/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theblog/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theblog/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theblog/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nCAzybBITKWen3FWmhcnyS05lM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="552f269e-0e3b-479e-ad26-e7292288a15c" name="Default Changelist" comment="" />
+      <created>1610883964806</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610883964806</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ablog/urls.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
