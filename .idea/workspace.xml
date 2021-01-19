@@ -2,8 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="552f269e-0e3b-479e-ad26-e7292288a15c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theblog/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theblog/templates/add_host.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theblog/templates/delete_post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theblog/templates/update_post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/templates/registration/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/templates/registration/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ablog/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ablog/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ablog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ablog/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theblog/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/theblog/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theblog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/theblog/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theblog/templates/arical_details.html" beforeDir="false" afterPath="$PROJECT_DIR$/theblog/templates/arical_details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theblog/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/theblog/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theblog/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/theblog/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theblog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/theblog/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theblog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/theblog/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,18 +73,34 @@
       <option name="project" value="LOCAL" />
       <updated>1610994748720</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new branch">
+      <created>1610995030957</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610995030957</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="new branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="new branch" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="614" y="113" key="CommitChangelistDialog2" timestamp="1610994747736">
+    <state x="614" y="113" key="CommitChangelistDialog2" timestamp="1610995030092">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="614" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1610994747736" />
+    <state x="614" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1610995030092" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1610995060009">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1610995060009" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1611030560624">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611030560624" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

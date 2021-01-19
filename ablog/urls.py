@@ -19,4 +19,6 @@ from django.urls import path, include
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('theblog.urls')),
+    path('users/', include('django.contrib.auth.urls')), #it's for default user authenticaion
+    path('users/', include('users.urls')),
 ]

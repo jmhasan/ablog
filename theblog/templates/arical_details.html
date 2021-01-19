@@ -1,15 +1,22 @@
 
 {% extends 'base.html' %}
-{% block content %}
 {% block title %}  {{post.title_tag}} {% endblock %}
-
+{% block content %}
 
 <h1> {{ post.title }}</h1>
-<small>BY:{{post.author.first_name}}
-    {{post.author.last_name}}
+<small>BY:
+    {{post.author.first_name}}
+    {{post.author.last_name}}-
+    {{post.post_date}}-
+    <small>
+        {% if user.is_authenticated %}
+        <a href="{% url 'update_post' post.pk %}">(Edit)</a>
+        <a href="{% url 'delete_post' post.pk %}">(Delete)</a><br/>
+        {% endif %}
+    </small>
 </small><br/><br/>
 <hr>
-{{post.body}}
+{{post.body|safe}} <!--|safe tag use for support html tag inside text or body -->
 
 <br/><br/>
 

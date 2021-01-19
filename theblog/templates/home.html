@@ -1,12 +1,20 @@
 {% extends 'base.html' %}
-{% block content %}
 {% block title %}  This is home {% endblock %}
+{% block content %}
 <h1>Post</h1>
 
 <ul>
 {% for post in object_list %}
-    <li> <a href="{% url 'article-dtail' post.pk %}">{{post.title}}- {{post.author}}</a> <br/>
-    {{post.body}}</li>
+    <li> <a href="{% url 'article-dtail' post.pk %}">{{post.title}} </a>-
+        {{post.author.first_name}}{{post.author.last_name}}-
+        {{post.post_date}}-
+        <small>
+         {% if user.is_authenticated %}
+        <a href="{% url 'update_post' post.pk %}">(Edit)</a><br/>
+        <a href="{% url 'delete_post' post.pk %}">(Delete)</a><br/>
+        {% endif %}
+        </small>
+    {{post.body|slice:":200"|safe}}</li> <!--|slice:":200" this code for show 200 character of post-->
 {% endfor %}
 </ul>
 
