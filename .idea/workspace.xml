@@ -2,20 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="552f269e-0e3b-479e-ad26-e7292288a15c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/theblog/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theblog/templates/add_host.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theblog/templates/delete_post.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theblog/templates/update_post.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/templates/registration/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/templates/registration/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theblog/templates/categories.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ablog/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ablog/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ablog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ablog/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/theblog/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/theblog/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theblog/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/theblog/forms.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/theblog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/theblog/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/theblog/templates/arical_details.html" beforeDir="false" afterPath="$PROJECT_DIR$/theblog/templates/arical_details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theblog/templates/add_category.html" beforeDir="false" afterPath="$PROJECT_DIR$/theblog/templates/add_category.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/theblog/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/theblog/templates/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/theblog/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/theblog/templates/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/theblog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/theblog/urls.py" afterDir="false" />
@@ -101,6 +93,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611030560624" />
+    <state x="696" y="311" key="git4idea.merge.GitPullDialog" timestamp="1611118897575">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="696" y="311" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611118897575" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -1,11 +1,13 @@
 {% extends 'base.html' %}
 {% block title %}  This is home {% endblock %}
 {% block content %}
+
 <h1>Post</h1>
 
 <ul>
 {% for post in object_list %}
     <li> <a href="{% url 'article-dtail' post.pk %}">{{post.title}} </a>-
+        <a href="{% url 'category' post.category %}"> {{post.category}} </a>-
         {{post.author.first_name}}{{post.author.last_name}}-
         {{post.post_date}}-
         <small>
