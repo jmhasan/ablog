@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="552f269e-0e3b-479e-ad26-e7292288a15c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/theblog/templates/categories.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/theblog/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/theblog/forms.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/theblog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/theblog/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/theblog/templates/add_category.html" beforeDir="false" afterPath="$PROJECT_DIR$/theblog/templates/add_category.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/theblog/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/theblog/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/theblog/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/theblog/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/theblog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/theblog/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/theblog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/theblog/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,27 +65,35 @@
       <option name="project" value="LOCAL" />
       <updated>1610995030957</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="category page add">
+      <created>1611147097330</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611147097330</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="new branch" />
-    <option name="LAST_COMMIT_MESSAGE" value="new branch" />
+    <MESSAGE value="category page add" />
+    <option name="LAST_COMMIT_MESSAGE" value="category page add" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="614" y="113" key="CommitChangelistDialog2" timestamp="1610995030092">
+    <state x="614" y="113" key="CommitChangelistDialog2" timestamp="1611147096183">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="614" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1610995030092" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1610995060009">
+    <state x="614" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1611147096183" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1611147107967">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1610995060009" />
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1611030560624">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1611147107967" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1611250633937">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611030560624" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611250633937" />
     <state x="696" y="311" key="git4idea.merge.GitPullDialog" timestamp="1611118897575">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
